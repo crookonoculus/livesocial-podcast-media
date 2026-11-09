@@ -1,6 +1,7 @@
 {
     "version": 1,
-    "activeId": "0882f8d035b2568d",
+    "revision": 1794253883768,
+    "activeId": "b50b6865ad9726c5",
     "items": [
         {
             "id": "0882f8d035b2568d",
@@ -14,6 +15,13 @@
             "name": "lsvr-podcast-wall-poster-v2",
             "type": "image",
             "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/e52ba9815323-lsvr-podcast-wall-poster-v2.png",
+            "fit": "contain"
+        },
+        {
+            "id": "b50b6865ad9726c5",
+            "name": "lsvr-podcast-wall-full-height",
+            "type": "video",
+            "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/b50b6865ad97-lsvr-podcast-wall-full-height.mp4",
             "fit": "contain"
         }
     ]
