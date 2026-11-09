@@ -8,6 +8,13 @@
             "type": "video",
             "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/0882f8d035b2-lsvr-podcast-wall-portrait-v2.mp4",
             "fit": "contain"
+        },
+        {
+            "id": "e52ba9815323b544",
+            "name": "lsvr-podcast-wall-poster-v2",
+            "type": "image",
+            "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/e52ba9815323-lsvr-podcast-wall-poster-v2.png",
+            "fit": "contain"
         }
     ]
 }
