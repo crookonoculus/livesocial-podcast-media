@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "revision": 1794267699330,
+    "revision": 1794268268883,
     "activeId": "b50b6865ad9726c5",
     "items": [
         {
@@ -29,6 +29,13 @@
             "name": "1",
             "type": "image",
             "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/d3b4f3385143-1.png",
+            "fit": "contain"
+        },
+        {
+            "id": "81662f06c2fade0a",
+            "name": "rinse-and-repeat-transparent",
+            "type": "image",
+            "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/81662f06c2fa-rinse-and-repeat-transparent.png",
             "fit": "contain"
         }
     ]
