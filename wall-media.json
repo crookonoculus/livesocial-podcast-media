@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "activeId": "0882f8d035b2568d",
+    "items": [
+        {
+            "id": "0882f8d035b2568d",
+            "name": "lsvr-podcast-wall-portrait-v2",
+            "type": "video",
+            "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/0882f8d035b2-lsvr-podcast-wall-portrait-v2.mp4",
+            "fit": "contain"
+        }
+    ]
+}
