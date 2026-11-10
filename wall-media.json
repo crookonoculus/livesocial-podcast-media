@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "revision": 1794278116080,
+    "revision": 1794278453646,
     "activeId": "b50b6865ad9726c5",
     "items": [
         {
@@ -57,6 +57,13 @@
             "name": "E51BA550-A1F2-4D75-9786-0E564616C9D7",
             "type": "image",
             "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/6b91ea025871-e51ba550-a1f2-4d75-9786-0e564616c9d7.png",
+            "fit": "contain"
+        },
+        {
+            "id": "17b58541cb73cec0",
+            "name": "08DC70E7-D5B5-4B39-9CE6-7640CD036F82",
+            "type": "image",
+            "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/17b58541cb73-08dc70e7-d5b5-4b39-9ce6-7640cd036f82.png",
             "fit": "contain"
         }
     ]
