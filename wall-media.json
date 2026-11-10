@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "revision": 1794268373446,
+    "revision": 1794277804243,
     "activeId": "b50b6865ad9726c5",
     "items": [
         {
@@ -43,6 +43,13 @@
             "name": "rinse-and-repeat-wall-1904",
             "type": "video",
             "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/e053a926fee6-rinse-and-repeat-wall-1904.mp4",
+            "fit": "contain"
+        },
+        {
+            "id": "752ac29ba2a65874",
+            "name": "LSVR Podcast Studio Emblem",
+            "type": "image",
+            "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/752ac29ba2a6-lsvr-podcast-studio-emblem.png",
             "fit": "contain"
         }
     ]
