@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "revision": 1794278850593,
+    "revision": 1794279033771,
     "activeId": "b50b6865ad9726c5",
     "items": [
         {
@@ -71,6 +71,13 @@
             "name": "Solid Black Background",
             "type": "image",
             "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/9165fcb80237-solid-black-background.png",
+            "fit": "contain"
+        },
+        {
+            "id": "f2e14c9f2805c357",
+            "name": "Solid Black Background",
+            "type": "image",
+            "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/f2e14c9f2805-solid-black-background.jpg",
             "fit": "contain"
         }
     ]
