@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "revision": 1794277804243,
+    "revision": 1794278116080,
     "activeId": "b50b6865ad9726c5",
     "items": [
         {
@@ -50,6 +50,13 @@
             "name": "LSVR Podcast Studio Emblem",
             "type": "image",
             "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/752ac29ba2a6-lsvr-podcast-studio-emblem.png",
+            "fit": "contain"
+        },
+        {
+            "id": "6b91ea0258717ac0",
+            "name": "E51BA550-A1F2-4D75-9786-0E564616C9D7",
+            "type": "image",
+            "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/6b91ea025871-e51ba550-a1f2-4d75-9786-0e564616c9d7.png",
             "fit": "contain"
         }
     ]
