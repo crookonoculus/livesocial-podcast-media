@@ -1,6 +1,6 @@
 {
     "version": 1,
-    "revision": 1794279234197,
+    "revision": 1794366941843,
     "activeId": "b50b6865ad9726c5",
     "items": [
         {
@@ -78,6 +78,13 @@
             "name": "Solid Black Background",
             "type": "image",
             "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/f2e14c9f2805-solid-black-background.jpg",
+            "fit": "contain"
+        },
+        {
+            "id": "9aa6bffe491a9779",
+            "name": "The Social Brief Logo",
+            "type": "image",
+            "url": "https://github.com/crookonoculus/livesocial-podcast-media/releases/download/wall-media/9aa6bffe491a-the-social-brief-logo.jpg",
             "fit": "contain"
         }
     ]
